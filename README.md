@@ -6,7 +6,7 @@ In this occasion I analyse the relation between breastcancerper100th as Explanat
 
 ###Output
 
-![alt tag](https://github.com/marlonsvl/multipleRegressionModel/blob/master/images/img1.png)
+![alt tag](https://github.com/marlonsvl/multipeRegressionModel/blob/master/images/img1.png)
 
 
 After that I made the polinomial regression using the order equal two to plotting the results. Therefore the best fitting line is curve. We can see that while the breast cancer is increassing the life expectancy is decreassing.
